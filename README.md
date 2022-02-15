@@ -1,6 +1,6 @@
 ## Competition 2 성능 평가 검증을 위한 실행 가이드
 
-**바탕화면에 있는 pycharm IDE를 실행시켜 test.py 파일을 열어줍니다. 이때 프로젝트의 경로는 F:\Competition_No2\code 이며, test.py의 경로는F:\Competition_No2\code\OCR\test.py 입니다.**
+**바탕화면에 있는 pycharm IDE를 실행시켜 test.py 파일을 열어줍니다. 이때 프로젝트의 경로는 F:\Competition_No2\code 이며, test.py의 경로는 F:\Competition_No2\code\OCR\test.py 입니다.**
 
 ![image](https://user-images.githubusercontent.com/30248006/154059434-58e6d91c-ef74-4a01-8ed2-8bc76f3b45bb.png)
 
