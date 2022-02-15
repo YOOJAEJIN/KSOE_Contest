@@ -8,7 +8,7 @@
 
 **- test_data_path : test 이미지가 들어있는 폴더 경로**  
 **- test_label_path : test 레이블 정보가 들어있는 txt파일 경로**  
-**- test_result_path : test결과 csv 파일이 저장되는 폴더 경로**  
+**- test_result_path : 결과 csv 파일이 저장되는 폴더 경로**  
 
 ```Python
 # test_data_path = 'F:/Competition_No2/datasets/test/01'
